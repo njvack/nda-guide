@@ -1,0 +1,19 @@
+# Getting Started
+
+## Where to Learn Stuff
+
+### Tutorials and Webinars
+
+I go ahead and watch all of the tutorials under [Tutorials on how to Contribute Data](https://nda.nih.gov/webinars-and-tutorials#tutorials). The information is of limited value (they skip over most of the confusing stuff), but it doesn't take very long and is a useful foundation. The webinars are of more value, as people ask questions about some of the information. Attend them if the timing is convenient for you. Otherwise, [recordings of previous webinars](https://www.gotostage.com/channel/nimhdataarchive) are available and just as useful as long as they're fairly recent.
+
+### Published Examples
+
+In some cases, you can learn how other groups have shared their data by using the [NDA Query Tool](https://nda.nih.gov/general-query.html?q=query=experiments). In particular, you can see how people have defined Experiments, which was something that was particularly unclear to me. However! Be careful to look at _recent_ examples (creation dates in the last year or two); it seems that NDA's standards have changed over time, so old examples will not necessarily help you.
+
+## Signing Up and Getting Access to a Collection
+
+If you don't already have one, you'll need to [sign up for an NDA account](https://nda.nih.gov/user/create_account.html). If you're PI on the project, there's a legal process for you to go through — you and your institution will need to sign a Data Submission Agreement. Contact your program officer if that hasn't happened yet.
+
+If you're new and you *aren't* a PI, the PI of the project will need to [grant you access](https://nda.nih.gov/training/module?trainingModuleId=training.pi&slideId=slide.pi.staff) to the collection. When you log in, you should see stuff that looks similar to what you've seen in the webinars.
+
+For the purposes of this guide, I'm assuming you have Administrator access to your collection. You can submit data without that access, but you'll need it to add and edit the Expected Data for your collection.
